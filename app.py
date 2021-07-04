@@ -3,6 +3,7 @@ import urllib.request
 import webbrowser
 from pathlib import Path
 
+
 from jina import Flow
 from jina.importer import ImportExtensions
 from jina.logging.predefined import default_logger
